@@ -8,9 +8,29 @@ _Source: [National Geographic Kids](https://www.natgeokids.com/uk/discover/anima
 
 1. Turtles belong to one of the oldest reptile groups in the world – beating snakes, crocodiles and alligators!
 
-2. These creatures date back to the time of the dinosaurs, over 200 million years ago – woah!
+2. These creatures date back to the time of the dinosaurs, *over 200 million years ago – woah*!
 
 3. Turtles are easily recognised by their bony, cartilaginous shell. This super-tough casing acts like a shield to protect them from predators – some turtles can even tuck their head up inside their shell for extra protection!
+
+## Turtle size by species
+
+![Turtle size comparison graphic](media/LargestTurtle2.jpg.webp)
+
+_Source: [Smithonian Institution] (https://ocean.si.edu/ocean-life/reptiles/what-largest-sea-turtle-sea-turtle-size-comparison-chart)_
+
+1. Leatherback turtle _(6 feet)_
+
+2. Green turtle _(4.5 feet)_
+
+3. Loggerhead turtle _(3.6 feet)_
+
+4. Flatback turtle _(3.2 feet)_
+
+5. Hawksbill turtle _(3 feet)_
+
+6. Olive ridley turtle _(2.5 feet)_ 
+
+7. Kemp's ridley turtle _(2 feet)_
 
 ## Famous turtles
 
@@ -22,15 +42,15 @@ _Source: [National Geographic Kids](https://www.natgeokids.com/uk/discover/anima
 - Teenage Mutant Ninja Turtles
 
 
-> Tip! If you have a turtle tank, make sure to change the water frequently!
+> _Tip! If you have a turtle tank, make sure to change the water frequently!_
 
 ## Long paragraphs about turtles
 
 _Source: [World Wildlife Foundation](https://www.worldwildlife.org/species/sea-turtle)_
 
-:  Seven different species of sea (or marine) turtles grace our ocean waters, from the shallow seagrass beds of the Indian Ocean, to the colorful reefs of the Coral Triangle and the sandy beaches of the Eastern Pacific. While these highly migratory species periodically come ashore to either bask or nest, sea turtles spend the bulk of their lives in the ocean. WWF's work on sea turtles focuses on five of those species: green, hawksbill, loggerhead, leatherback, and olive ridley.
+:  Seven different species of sea (or marine) turtles grace our ocean waters, from the shallow seagrass beds of the Indian Ocean, to the colorful reefs of the Coral Triangle and the sandy beaches of the Eastern Pacific. While these *highly migratory species* periodically come ashore to either bask or nest, sea turtles spend the bulk of their lives in the ocean. WWF's work on sea turtles focuses on five of those species: green, hawksbill, loggerhead, leatherback, and olive ridley.
 
-Over the last 200 years, human activities have tipped the scales against the survival of these ancient mariners. Slaughtered for their eggs, meat, skin, and shells, sea turtles suffer from poaching and over-exploitation. They also face habitat destruction and accidental capture—known as bycatch—in fishing gear. Climate change has an impact on turtle nesting sites; it alters sand temperatures, which then affects the sex of hatchlings. Nearly all species of sea turtle are now classified as endangered, with three of the seven existing species being critically endangered.
+Over the last 200 years, *human activities* have tipped the scales against the survival of these ancient mariners. Slaughtered for their eggs, meat, skin, and shells, sea turtles suffer from poaching and over-exploitation. They also face habitat destruction and accidental capture—known as bycatch—in fishing gear. Climate change has an impact on turtle nesting sites; it alters sand temperatures, which then affects the sex of hatchlings. Nearly all species of sea turtle are now classified as endangered, with three of the seven existing species being critically endangered.
 
 
 WWF is committed to stopping the decline of sea turtles and works for the recovery of the species. We work to secure environments in which both turtles and the people that depend upon them can survive.
