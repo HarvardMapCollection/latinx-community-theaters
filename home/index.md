@@ -62,13 +62,13 @@ WWF is committed to stopping the decline of sea turtles and works for the recove
 
 
 ## Markdown things to try
-1. Try to make some text on this page **bold** by placing asterisks to either side.
-2. Try making some text _italicized_ by placing underscores on either side of the text.
-3. Trying creating an ordered and unordered list by using numbers and hyphens. 
-4. Try adding another photo.
-5. Try creating a hyperlink out like the source link for the turtle facts. 
+~~1. Try to make some text on this page **bold** by placing asterisks to either side.~~
+~~2. Try making some text _italicized_ by placing underscores on either side of the text.~~
+3. Trying creating an ~~ordered and~~ unordered list by using numbers and hyphens. 
+~~4. Try adding another photo.~~
+~~5. Try creating a hyperlink out like the source link for the turtle facts. ~~
 6. So far, we have header 1s (the title "Turtles"), and header 2s ("Facts about turtles", "Famous turtles", etc.) Try adding a header 3 using `### `.
-6. Are there any other [Markdown tasks](https://www.markdownguide.org/basic-syntax/) you want to try?
+~~6. Are there any other [Markdown tasks](https://www.markdownguide.org/basic-syntax/) you want to try?~~
 
 
 
