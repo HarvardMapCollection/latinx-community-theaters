@@ -59,31 +59,31 @@ WWF is committed to stopping the decline of sea turtles and works for the recove
 ## Top 5 Turtle Destinations
 _Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-places-to-see-sea-turtles)_
 
-**Costa Rica**
+1. **Costa Rica**
 
-1. **Playa Grande**
+**Playa Grande**
 : This beautiful beach is one of the top locations in the world to see humongous leatherback turtles all year-round. Of the seven turtle species, this one is the largest of them all, weighing up to around 700 kg (1500 lbs). The leatherbacks’ nesting period is between October and March, so visiting at this time means that you can get a special glimpse of hatching eggs and baby turtles making their way to the water.
 : Playa Grande is the world’s second largest nesting place for leatherback turtles. In order to see this amazing species, you’ll need to book a tour guide so that their nesting habits are not disturbed and that the eggs are not harmed in any way. Most of the tours are offered late in the evening, typically after sunset to ensure the safety of the turtles, but don’t worry as your guide will show you everything you need to know and much more.
 
-**Indonesia**
+2. **Indonesia**
 
-2. ** Gili Islands**
+**Gili Islands**
 : The Indonesian Gili Islands are composed of three tiny islands. The islands are home to Green turtles who are vegetarians and Hawksbill turtles who are the most beautiful of them all due to their colourful shells. The turtles are looked after under the protective eye of the island’s Turtle Protection Centre.
 : These tropical islands are good for divers, where you can dive up to around 10 metres below sea level. However, if you’re not ready for diving just yet, not to worry, you can take your snorkelling kit and have a swim with these lovely species between the months of March and September.
 
-**Australia**
+3. **Australia**
 
-3. **Heron Islands**
+**Heron Islands**
 : Australia boasts six of the seven sea turtle species; the green turtle, the hawksbill, leatherback, the olive ridley, the flatback and the loggerhead. The Sea Turtle Foundation recommends visiting the Heron Island which is south of the Great Barrier Reef and was featured on Sir David Attenborough’s series, The Blue Planet II. During nesting seasons you’ll find both the loggerhead (who are carnivores) and green turtles breeding here. On this island, you’ll be able to get a guided tour to learn more about the turtles and watch them nest. Snorkelling is also a good way to see the sea turtles. Visiting them any time from Spring to fall is a great time to get a glimpse of all the excitement.
 
-**Hawaii**
+4. **Hawaii**
 
-4. **Laniaka Beach**
+**Laniaka Beach**
 : Laniakea Beach, also known as the ‘Turtle Beach’, is on the north coast of the Hawaiian island of Oahu near the city Haleiwa. This Hawaiian Paradise is home to one of the rarest species of turtles, the green sea turtle or ‘honu’. Throughout the year, turtles come to this beach to eat from the seaweed and lie on the sand to sunbathe in the sun. This makes them relatively easy to spot whether in the sea or on the shore. Scuba diving and snorkelling are popular amongst tourists here so be sure to bring your gear along. The best time to visit the beach is during spring, summer and fall.
 
-**Malaysia**
+5. **Malaysia**
 
-5. **Tioman Island**
+**Tioman Island**
 : Tioman Island is well known for being all about turtles and tropical sunshine. The island is located off the eastern coast of Malaysia, with a turtle protection centre that protects eggs from being consumed by animals and to help the baby turtles safely reach the sea. By visiting Tioman Island between May and October you will be able to find the Green and Hawksbill turtles coming ashore to lay their eggs in the sand. The island is also known for being a top destination for turtle spotting because of its vast amount of coral which attracts the turtles and it also makes it great for snorkelling too.
 
 ## More turtle media
@@ -97,7 +97,7 @@ _Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-p
 2. ~~Try making some text _italicized_ by placing underscores on either side of the text.~~
 3. ~~Trying creating an ordered and unordered list by using numbers and hyphens.~~
 4. ~~Try adding another photo.~~
-5. ~~Try creating a hyperlink out like the source link for the turtle facts. ~~
+5. ~~Try creating a hyperlink out like the source link for the turtle facts.~~
 6. So far, we have header 1s (the title "Turtles"), and header 2s ("Facts about turtles", "Famous turtles", etc.) Try adding a header 3 using `### `.
 6. ~~Are there any other [Markdown tasks](https://www.markdownguide.org/basic-syntax/) you want to try?~~
 
