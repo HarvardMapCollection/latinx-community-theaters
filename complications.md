@@ -4,3 +4,4 @@ is kips bay right for repertorio?
 there will need to be a lot of double checking about whether/when theatres moved
 UPDATE CODEBOOK - LAST COMPLETE 3.31.22-10:58
 ALL MY POINTS ARE GONE WHY NOOOOOO
+belle had covid it's okay
