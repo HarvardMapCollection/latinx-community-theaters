@@ -56,13 +56,12 @@ Over the last 200 years, **human activities** have tipped the scales against the
 WWF is committed to stopping the decline of sea turtles and works for the recovery of the species. We work to secure environments in which both turtles and the people that depend upon them can survive.
 
 ## Top 5 Turtle Destinations
-_Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-places-to-see-sea-turtles)
+_Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-places-to-see-sea-turtles)_
 
 **Costa Rica**
 **1. Playa Grande**
 : This beautiful beach is one of the top locations in the world to see humongous leatherback turtles all year-round. Of the seven turtle species, this one is the largest of them all, weighing up to around 700 kg (1500 lbs). The leatherbacks’ nesting period is between October and March, so visiting at this time means that you can get a special glimpse of hatching eggs and baby turtles making their way to the water.
-
-Playa Grande is the world’s second largest nesting place for leatherback turtles. In order to see this amazing species, you’ll need to book a tour guide so that their nesting habits are not disturbed and that the eggs are not harmed in any way. Most of the tours are offered late in the evening, typically after sunset to ensure the safety of the turtles, but don’t worry as your guide will show you everything you need to know and much more.
+: Playa Grande is the world’s second largest nesting place for leatherback turtles. In order to see this amazing species, you’ll need to book a tour guide so that their nesting habits are not disturbed and that the eggs are not harmed in any way. Most of the tours are offered late in the evening, typically after sunset to ensure the safety of the turtles, but don’t worry as your guide will show you everything you need to know and much more.
 
 ## More turtle media
 
