@@ -12,25 +12,25 @@ _Source: [National Geographic Kids](https://www.natgeokids.com/uk/discover/anima
 
 3. Turtles are easily recognised by their bony, cartilaginous shell. This super-tough casing acts like a shield to protect them from predators – some turtles can even tuck their head up inside their shell for extra protection!
 
-## Turtles largest to smallest by species
+### Turtles largest to smallest by species
 
 ![Turtle size comparison graphic](media/LargestTurtle2.jpg.webp)
 
 _Source: [Smithonian Institution](https://ocean.si.edu/ocean-life/reptiles/what-largest-sea-turtle-sea-turtle-size-comparison-chart)_
 
-1. Leatherback turtle _(6 feet)_
+- Leatherback turtle _(6 feet)_
 
-2. Green turtle _(4.5 feet)_
+- Green turtle _(4.5 feet)_
 
-3. Loggerhead turtle _(3.6 feet)_
+- Loggerhead turtle _(3.6 feet)_
 
-4. Flatback turtle _(3.2 feet)_
+- Flatback turtle _(3.2 feet)_
 
-5. Hawksbill turtle _(3 feet)_
+- Hawksbill turtle _(3 feet)_
 
-6. Olive ridley turtle _(2.5 feet)_ 
+- Olive ridley turtle _(2.5 feet)_ 
 
-7. Kemp's ridley turtle _(2 feet)_
+- Kemp's ridley turtle _(2 feet)_
 
 ## Famous turtles
 
@@ -54,6 +54,15 @@ Over the last 200 years, **human activities** have tipped the scales against the
 
 
 WWF is committed to stopping the decline of sea turtles and works for the recovery of the species. We work to secure environments in which both turtles and the people that depend upon them can survive.
+
+## Top 5 Turtle Destinations
+_Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-places-to-see-sea-turtles)
+
+**Costa Rica**
+**1. Playa Grande**
+: This beautiful beach is one of the top locations in the world to see humongous leatherback turtles all year-round. Of the seven turtle species, this one is the largest of them all, weighing up to around 700 kg (1500 lbs). The leatherbacks’ nesting period is between October and March, so visiting at this time means that you can get a special glimpse of hatching eggs and baby turtles making their way to the water.
+
+Playa Grande is the world’s second largest nesting place for leatherback turtles. In order to see this amazing species, you’ll need to book a tour guide so that their nesting habits are not disturbed and that the eggs are not harmed in any way. Most of the tours are offered late in the evening, typically after sunset to ensure the safety of the turtles, but don’t worry as your guide will show you everything you need to know and much more.
 
 ## More turtle media
 
