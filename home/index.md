@@ -77,7 +77,7 @@ _Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-p
 
     _Laniakea Beach_, also known as the ‘Turtle Beach’, is on the north coast of the Hawaiian island of Oahu near the city Haleiwa. This Hawaiian Paradise is home to one of the rarest species of turtles, the green sea turtle or ‘honu’. Throughout the year, turtles come to this beach to eat from the seaweed and lie on the sand to sunbathe in the sun. This makes them relatively easy to spot whether in the sea or on the shore. Scuba diving and snorkelling are popular amongst tourists here so be sure to bring your gear along. The best time to visit the beach is during spring, summer and fall.
 
-5. **Malaysia** 
+5. **Malaysia**
     _Tioman Island_ is well known for being all about turtles and tropical sunshine. The island is located off the eastern coast of Malaysia, with a turtle protection centre that protects eggs from being consumed by animals and to help the baby turtles safely reach the sea. By visiting Tioman Island between May and October you will be able to find the Green and Hawksbill turtles coming ashore to lay their eggs in the sand. The island is also known for being a top destination for turtle spotting because of its vast amount of coral which attracts the turtles and it also makes it great for snorkelling too.
 
 ## More turtle media
