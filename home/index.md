@@ -2,25 +2,27 @@
 The goal of this webpage is to allow others to follow the progress of this mapping project and understand the immediate and long-term goals and uses of the mapping project.
 
 
-## About this mapping project
-At its inception, this project's main goal is to demonstrate cultural distance and difference as they pertain to staged representations of Latinx (or Latine) Americans living in the United States. In order to do so, this project maps the difference between the spaces that are occupied by Latinx-Americans and Latinx immigrants and the spaces that represent or claim to represent Latinx Americans in the United States. For this initial stage of the project, this analysis is focused on the city of New York and shows data beginning in the 1940s and 1950s.
+### About this mapping project
+At its inception, this project's main goal is to demonstrate cultural distance and difference as they pertain to staged representations of Latinx (or Latine) Americans living in the United States. In order to do so, this project maps the difference between the spaces that are occupied by Latinx-Americans and Latinx immigrants and the spaces that represent or claim to represent Latinx Americans in the United States. For this initial stage of the project, this analysis is focused on the city of New York and shows data beginning in the 1940s and 1950s. The resulting map shows where Latines are living and the emergence of Latine community-centered theatres throughout the city of New York as Latine-Americans and Latine immigrants begin to create spaces for self-representation and community celebration. This map shows information gathered from census records, community organizing histories and theatre hubs based mostly in New York.
 
-This project has been supported by the May-Crane Fellowship which allowed collaboration with, contribution to, and invaluable support from the Harvard Maps Collection.
+This project has been supported by the May-Crane Fellowship which allowed collaboration with, contribution to, and invaluable support from the Harvard Map Collection.
 
-## Contents
+### Contents
 
-1. Turtles belong to one of the oldest reptile groups in the world – beating snakes, crocodiles and alligators!
+1. Recurring Perspectives
 
-2. These creatures date back to the time of the dinosaurs, *over 200 million years ago – woah*!
+2. Where Are All the New York Latines?
 
-3. Turtles are easily recognised by their bony, cartilaginous shell. This super-tough casing acts like a shield to protect them from predators – some turtles can even tuck their head up inside their shell for extra protection!
+3. Where Are Latines Being Portrayed?
 
+4. Reflections
 
-![Turtle size comparison graphic](media/LargestTurtle2.jpg.webp)
+5. Future Directions
 
-_Source: [Smithonian Institution](https://ocean.si.edu/ocean-life/reptiles/what-largest-sea-turtle-sea-turtle-size-comparison-chart)_
+## 1. Recurring Perspectives
+... in theatre and on the maps.
 
-### Turtles largest to smallest by species
+![This turtle looks angry](media/turtle-2.png)
 
 - Leatherback turtle _(6 feet)_
 
@@ -36,7 +38,8 @@ _Source: [Smithonian Institution](https://ocean.si.edu/ocean-life/reptiles/what-
 
 - Kemp's ridley turtle _(2 feet)_
 
-## Famous turtles
+## 2. Where Are All the New York Latines
+... and how come they're in these spaces?
 
 - Cecil Turtle from Looney Tunes
 - Crush and Squirt from Finding Nemo
@@ -46,9 +49,8 @@ _Source: [Smithonian Institution](https://ocean.si.edu/ocean-life/reptiles/what-
 - Teenage Mutant Ninja Turtles
 
 
-> _Tip! If you have a turtle tank, make sure to change the water frequently!_
-
-## Long paragraphs about turtles
+## 3. Where Are Latines Being Portrayed?
+...and who is portraying them
 
 _Source: [World Wildlife Foundation](https://www.worldwildlife.org/species/sea-turtle)_
 
@@ -56,10 +58,13 @@ _Source: [World Wildlife Foundation](https://www.worldwildlife.org/species/sea-t
 
 Over the last 200 years, **human activities** have tipped the scales against the survival of these ancient mariners. Slaughtered for their eggs, meat, skin, and shells, sea turtles suffer from poaching and over-exploitation. They also face habitat destruction and accidental capture—known as bycatch—in fishing gear. Climate change has an impact on turtle nesting sites; it alters sand temperatures, which then affects the sex of hatchlings. Nearly all species of sea turtle are now classified as endangered, with three of the seven existing species being critically endangered.
 
+## 4. Reflections
+
+
 
 WWF is committed to stopping the decline of sea turtles and works for the recovery of the species. We work to secure environments in which both turtles and the people that depend upon them can survive.
 
-## Top 5 Turtle Destinations
+## 5. Next Steps and Future Directions
 _Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-places-to-see-sea-turtles)_
 
 1. **Costa Rica**
@@ -84,11 +89,6 @@ _Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-p
 
     _Tioman Island_ is well known for being all about turtles and tropical sunshine. The island is located off the eastern coast of Malaysia, with a turtle protection centre that protects eggs from being consumed by animals and to help the baby turtles safely reach the sea. By visiting Tioman Island between May and October you will be able to find the Green and Hawksbill turtles coming ashore to lay their eggs in the sand. The island is also known for being a top destination for turtle spotting because of its vast amount of coral which attracts the turtles and it also makes it great for snorkelling too.
 
-
-
-## More turtle media
-
-![This turtle looks angry](media/turtle-2.png)
 
 
 
