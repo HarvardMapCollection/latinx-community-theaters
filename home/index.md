@@ -22,7 +22,7 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 ## 1. Recurring Perspectives
 ... in theatre and on the maps.
 
-![This turtle looks angry](media/turtle-2.png)
+![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and east coastlines in the background and margins.](media/
 
 - Leatherback turtle _(6 feet)_
 
