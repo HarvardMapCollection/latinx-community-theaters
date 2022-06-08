@@ -1,10 +1,13 @@
-# Turtles
+# Mapping Cultural Difference
+The goal of this webpage is to allow others to follow the progress of this mapping project and understand the immediate and long-term goals and uses of the mapping project.
 
-![Picture of a small turtle next to a quarter](media/turtle-1.png)
 
-## Facts about turtles
+## About this mapping project
+At its inception, this project's main goal is to demonstrate cultural distance and difference as they pertain to staged representations of Latinx (or Latine) Americans living in the United States. In order to do so, this project maps the difference between the spaces that are occupied by Latinx-Americans and Latinx immigrants and the spaces that represent or claim to represent Latinx Americans in the United States. For this initial stage of the project, this analysis is focused on the city of New York and shows data beginning in the 1940s and 1950s.
 
-_Source: [National Geographic Kids](https://www.natgeokids.com/uk/discover/animals/sea-life/turtle-facts/)_
+This project has been supported by the May-Crane Fellowship which allowed collaboration with, contribution to, and invaluable support from the Harvard Maps Collection.
+
+## Contents
 
 1. Turtles belong to one of the oldest reptile groups in the world – beating snakes, crocodiles and alligators!
 
