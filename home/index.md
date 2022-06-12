@@ -23,6 +23,7 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 ... on the maps and in the theatre.
 
 ![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and eastern coastlines in the background and margins.](media/hmc-city-of-new-york-perspective.png)
+*Pictorial perspective map of Manhattan from the South - early 19th century*
 
 Upon arriving at and exploring the Harvard Map Collection, it quickly became evident that certain perpective have predominated mapmaking in New York. The focus of most maps in New York is commerce, and in more recent years this commerce is mainly prioritized in the form of tourism. 
 
@@ -31,11 +32,16 @@ The map above is a perspective map of Manhattan from the early 19th century whic
 The map below is dated to 1939, about a century after the map above. In this case, the map is not physically skewed to represent fincance and commerece. Rather, it points out locations that serve either as important financial institutions or as major attractions for those visiting from outside of the city. 
 
 ![Pictorial landmark map "of that portion of New York City known as Manhattan also showing parts of the Bronx"](media/manhattan-landmark-map.png)
+*Pictorial landmark map - 1939*
 
 While New York has long been known for its status as a maor driver of the country's financial capital, a large fraction of the city's tax revenue is driven by tourism. According to the New York State Comptroller's Office, "spending by tourists is _the critical driver_ for industry employment, wages and tax revenues." _Source: [NYS Comptroller: Reigniting the Return](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city)_
 
-Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City.
+Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City. The image below is a zoomed crop of the 1939 map featured above to show the emphasis on Broadway's "bright lights."
+
+> :book: **Reading Suggestion:** Jay McInerey's *Bright Lights, Big City* centers on a non-native New Yorker's attraction to the "bright lights" of New York City and describes the main character's disillusionment that comes as a consequence of being drenched in the light.
+
  ![Pictorial landmark map above zoomed into the Theatre District to feature the "Bright Lights" and "Broadway" writ large](media/broadway%20lights.png)
+ *Broadway and the Bright Lights - 1939*
 
 ## 2. Where Are All the New York Latines
 ... and how come they're in these spaces?
@@ -72,7 +78,7 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 
 
 
-#### Resources
+##### Resources
 - [Basic markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [HackMD.io shows how your markdown will display realtime](https://hackmd.io/)
 - [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
