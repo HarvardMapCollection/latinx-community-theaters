@@ -20,79 +20,48 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 5. Future Directions
 
 ## 1. Recurring Perspectives
-... in theatre and on the maps.
+... on the maps and in the theatre.
 
-![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and east coastlines in the background and margins.](media/hmc-city-of-new-york-perspective.png)
+![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and eastern coastlines in the background and margins.](media/hmc-city-of-new-york-perspective.png)
 
-- Leatherback turtle _(6 feet)_
+Upon arriving at and exploring the Harvard Map Collection, it quickly became evident that certain perpective have predominated mapmaking in New York. The focus of most maps in New York is commerce, and in more recent years this commerce is mainly prioritized in the form of tourism. 
 
-- Green turtle _(4.5 feet)_
+The map above is a perspective map of Manhattan from the early 19th century which centers the southern tip of Manhattan and shipping commerce as the most notable features of the city. The northern part of Manhattan, as well as the areas that would come to be known as Brooklyn, Queens, the Bronx, and Staten Island are featured as marginal or not at all. While this map was created long before New York City became defined by the five boroughs, the parts left off the map or left literally minimized by the perspective of the map are the places that would come to be populated by people of color, including Latine immigrants.
 
-- Loggerhead turtle _(3.6 feet)_
+The map below is dated to 1939, about a century after the map above. In this case, the map is not physically skewed to represent fincance and commerece. Rather, it points out locations that serve either as important financial institutions or as major attractions for those visiting from outside of the city. 
 
-- Flatback turtle _(3.2 feet)_
+![Pictorial landmark map "of that portion of New York City known as Manhattan also showing parts of the Bronx"](media/manhattan-landmark-map.png)
 
-- Hawksbill turtle _(3 feet)_
+While New York has long been known for its status as a maor driver of the country's financial capital, a large fraction of the city's tax revenue is driven by tourism. According to the New York State Comptroller's Office, "spending by tourists is _the critical driver_ for industry employment, wages and tax revenues." _Source: [NYS Comptroller: Reigniting the Return](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city)_
 
-- Olive ridley turtle _(2.5 feet)_ 
-
-- Kemp's ridley turtle _(2 feet)_
+Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City.
+ ![Pictorial landmark map above zoomed into the Theatre District to feature the "Bright Lights" and "Broadway" writ large](media/broadway%20lights.png)
 
 ## 2. Where Are All the New York Latines
 ... and how come they're in these spaces?
 
-- Cecil Turtle from Looney Tunes
-- Crush and Squirt from Finding Nemo
-- Franklin
-- Filbert from Rocko's Modern Life
-- Squirtle from Pokemon
-- Teenage Mutant Ninja Turtles
-
+- Lower East Side/Loisaida
+- Upper West Side --> Washington Heights
+- South Bronx
+- Northern Queens
+- Brooklyn
 
 ## 3. Where Are Latines Being Portrayed?
 ...and who is portraying them
 
-_Source: [World Wildlife Foundation](https://www.worldwildlife.org/species/sea-turtle)_
 
-:  Seven different species of sea (or marine) turtles grace our ocean waters, from the shallow seagrass beds of the Indian Ocean, to the colorful reefs of the Coral Triangle and the sandy beaches of the Eastern Pacific. While these **highly migratory species** periodically come ashore to either bask or nest, sea turtles spend the bulk of their lives in the ocean. WWF's work on sea turtles focuses on five of those species: green, hawksbill, loggerhead, leatherback, and olive ridley.
-
-Over the last 200 years, **human activities** have tipped the scales against the survival of these ancient mariners. Slaughtered for their eggs, meat, skin, and shells, sea turtles suffer from poaching and over-exploitation. They also face habitat destruction and accidental capture—known as bycatch—in fishing gear. Climate change has an impact on turtle nesting sites; it alters sand temperatures, which then affects the sex of hatchlings. Nearly all species of sea turtle are now classified as endangered, with three of the seven existing species being critically endangered.
 
 ## 4. Reflections
 
 
 
-WWF is committed to stopping the decline of sea turtles and works for the recovery of the species. We work to secure environments in which both turtles and the people that depend upon them can survive.
-
 ## 5. Next Steps and Future Directions
-_Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-places-to-see-sea-turtles)_
-
-1. **Costa Rica**
-
-    _Playa Grande_ is one of the top locations in the world to see humongous leatherback turtles all year-round. Of the seven turtle species, this one is the largest of them all, weighing up to around 700 kg (1500 lbs). The leatherbacks’ nesting period is between October and March, so visiting at this time means that you can get a special glimpse of hatching eggs and baby turtles making their way to the water.
-    Playa Grande is the world’s second largest nesting place for leatherback turtles. In order to see this amazing species, you’ll need to book a tour guide so that their nesting habits are not disturbed and that the eggs are not harmed in any way. Most of the tours are offered late in the evening, typically after sunset to ensure the safety of the turtles, but don’t worry as your guide will show you everything you need to know and much more.
-
-2. **Indonesia**
-
-    The Indonesian _Gili Islands_ are composed of three tiny islands. The islands are home to Green turtles who are vegetarians and Hawksbill turtles who are the most beautiful of them all due to their colourful shells. The turtles are looked after under the protective eye of the island’s Turtle Protection Centre.
-    These tropical islands are good for divers, where you can dive up to around 10 metres below sea level. However, if you’re not ready for diving just yet, not to worry, you can take your snorkelling kit and have a swim with these lovely species between the months of March and September.
-
-3. **Australia**
-
-    Australia boasts six of the seven sea turtle species; the green turtle, the hawksbill, leatherback, the olive ridley, the flatback and the loggerhead. The Sea Turtle Foundation recommends visiting the _Heron Islands_ which is south of the Great Barrier Reef and was featured on Sir David Attenborough’s series, The Blue Planet II. During nesting seasons you’ll find both the loggerhead (who are carnivores) and green turtles breeding here. On this island, you’ll be able to get a guided tour to learn more about the turtles and watch them nest. Snorkelling is also a good way to see the sea turtles. Visiting them any time from Spring to fall is a great time to get a glimpse of all the excitement.
-
-4. **Hawaii**
-
-    _Laniakea Beach_, also known as the ‘Turtle Beach’, is on the north coast of the Hawaiian island of Oahu near the city Haleiwa. This Hawaiian Paradise is home to one of the rarest species of turtles, the green sea turtle or ‘honu’. Throughout the year, turtles come to this beach to eat from the seaweed and lie on the sand to sunbathe in the sun. This makes them relatively easy to spot whether in the sea or on the shore. Scuba diving and snorkelling are popular amongst tourists here so be sure to bring your gear along. The best time to visit the beach is during spring, summer and fall.
-
-5. **Malaysia**
-
-    _Tioman Island_ is well known for being all about turtles and tropical sunshine. The island is located off the eastern coast of Malaysia, with a turtle protection centre that protects eggs from being consumed by animals and to help the baby turtles safely reach the sea. By visiting Tioman Island between May and October you will be able to find the Green and Hawksbill turtles coming ashore to lay their eggs in the sand. The island is also known for being a top destination for turtle spotting because of its vast amount of coral which attracts the turtles and it also makes it great for snorkelling too.
 
 
 
 
-## Markdown things to try
+
+##### Markdown things to try
 - [x] Try to make some text on this page **bold** by placing asterisks to either side.
 - [x] Try making some text _italicized_ by placing underscores on either side of the text.
 - [x] Trying creating an ordered and unordered list by using numbers and hyphens.
@@ -103,7 +72,7 @@ _Source: [Alternative Airlines](https://www.alternativeairlines.com/blog/top-5-p
 
 
 
-## Resources
+#### Resources
 - [Basic markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [HackMD.io shows how your markdown will display realtime](https://hackmd.io/)
 - [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
