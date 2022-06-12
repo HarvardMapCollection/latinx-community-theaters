@@ -38,7 +38,7 @@ While New York has long been known for its status as a maor driver of the countr
 
 Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City. The image below is a zoomed crop of the 1939 map featured above to show the emphasis on Broadway's "bright lights." 
 
-> :book: **Reading Suggestion:** Jay McInerey's *Bright Lights, Big City* centers on a non-native New Yorker's attraction to the "bright lights" of New York City and describes the main character's disillusionment that comes as a consequence of being drenched in the light.
+> :book: **Reading Suggestion:** Jay McInerey's *Bright Lights, Big City* centers on a non-native New Yorker's attraction to the "bright lights" of New York City and describes the main character's disillusionment that comes as a consequence of being drenched in the light. The pink stars on this image demonstrate Latinx community-led theatres in proximity to the theatre district.
 
  ![Pictorial landmark map above zoomed into the Theatre District to feature the "Bright Lights" and "Broadway" writ large](media/broadway%20lights.png)
  *Broadway and the Bright Lights - 1939*
@@ -55,16 +55,54 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 ## 3. Where Are Latines Being Portrayed?
 ...and who is portraying them
 
+Due in part to its multiple film revivals, one of the most famous portrayals of Latinx people in the United States is *West Side Story* written and composed by Arthur Laurents, Leonard Bernstein, and Stephen Sondheim. The play is also quite famous for featuring a mostly white cast playing Puerto Rican characters written by white Americans. The play opened on Broadway during the 1950s, a decade which also saw the largest influx of Puerto Ricans into the City of New York. This would represent the first large migration of Latinx folks into the City.
 
+While *West Side Story* continues to space in the larger context of theatrical representations of Latinx people in the United States, as Latinx immigrants arrived in New York they began to create spaces where they had the ability to represent themselves and create community in doing so. This  project focuses on mapping those spaces created by Latinx folks for the sake of Latinx representation, space, and expression in New York City.
+
+[completed map here]
+
+### Latinx Community Strongholds
+
+Most often, those spaces appeared in parts of the like the Lower East Side, where large Latinx communities had already been established...
+
+[map zoomed to Lower East Side]
+
+### Defining Latinx Identity in New York
+
+These spaces were also usually quite far from Broadway and existed as spaces for communities much larger than what most non-Latinx audiences would understand as Latinx. A major example is the Afro-Latinx communities of uptown and the Bronx that were created in part because of mutual lineage, but also due to their collective marginalization in the city...
+
+[theatres in Harlem, Washington Heights, the Bronx]
+
+### Theatre in the Margins
+
+Despite the presence of some Latinx theatres closer to the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more afforadable housing.
+
+[pictures of the margins]
+
+### The Commute to Community
+
+Even still, the outer boroughs remain relatively scant in terms of resources for theatre production. Just as people often need to do to access work, recreation, or other resources important to living in New York, many Latinx folks need to commute in order to reach the theatre communities that center them. This struggle has become magnified by gentrification as Latinx New Yorkers are pushed out of once strongholds and away from those theatres that may once have been considered the heart of their artistic communities.
+
+[map with subway map overlay]
 
 ## 4. Reflections
 
 
 
-## 5. Next Steps and Future Directions
+## 5. Next Steps and Future Questions
 
+Next Steps
+- Creating a map that captures change over time
+- Mapping Chicago and LA
+- Case studies in the NY-LA connection: Luis Valdez from the farm to Broadway
 
+Future Questions
 
+- What does a project look like in other cities or regions that are pertinent to my research such as Southern California, the Southwest, or Chicago?
+
+- How does migration from city to city affect the development of Latine theatre and theatre communities throughout the United States?
+
+- What kinds of economic interests are important to considering this landscape? (i.e. What's the difference between the profits of a shows like Sondheim's *West Side Story*, Valdez's *Zoot Suit*, and Miguel Piñero's *Short Eyes*?) Would mapping Latinx-centered and Latinx-written shows in a given city help advance this project?
 
 
 ##### Markdown things to try
