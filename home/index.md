@@ -36,7 +36,7 @@ The map below is dated to 1939, about a century after the map above. In this cas
 
 While New York has long been known for its status as a maor driver of the country's financial capital, a large fraction of the city's tax revenue is driven by tourism. According to the New York State Comptroller's Office, "spending by tourists is _the critical driver_ for industry employment, wages and tax revenues." _Source: [NYS Comptroller: Reigniting the Return](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city)_
 
-Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City. The image below is a zoomed crop of the 1939 map featured above to show the emphasis on Broadway's "bright lights."
+Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City. The image below is a zoomed crop of the 1939 map featured above to show the emphasis on Broadway's "bright lights." 
 
 > :book: **Reading Suggestion:** Jay McInerey's *Bright Lights, Big City* centers on a non-native New Yorker's attraction to the "bright lights" of New York City and describes the main character's disillusionment that comes as a consequence of being drenched in the light.
 
