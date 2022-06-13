@@ -11,13 +11,15 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 
 1. Recurring Perspectives
 
-2. Where Are All the New York Latines?
+2. Methods
 
-3. Where Are Latines Being Portrayed?
+3. Where Are All the New York Latines?
 
-4. Reflections
+4. Where Are Latines Being Portrayed?
 
-5. Future Directions
+5. Reflections
+
+6. Future Directions
 
 ## 1. Recurring Perspectives
 ... on the maps and in the theatre.
@@ -43,7 +45,15 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
  ![Pictorial landmark map above zoomed into the Theatre District to feature the "Bright Lights" and "Broadway" writ large](media/broadway%20lights.png)
  *Broadway and the Bright Lights - 1939*
 
-## 2. Where Are All the New York Latines
+## 2. Methods
+
+### Why 2000 census data?
+
+### Why 2020 subway maps?
+
+### On using census data
+
+## 3. Where Are All the New York Latines
 ... and how come they're in these spaces?
 
 - Lower East Side/Loisaida
@@ -52,7 +62,7 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 - Northern Queens
 - Brooklyn
 
-## 3. Where Are Latines Being Portrayed?
+## 4. Where Are Latines Being Portrayed?
 ...and who is portraying them
 
 Due in part to its multiple film revivals, one of the most famous portrayals of Latinx people in the United States is *West Side Story* written and composed by Arthur Laurents, Leonard Bernstein, and Stephen Sondheim. The play is also quite famous for featuring a mostly white cast playing Puerto Rican characters written by white Americans. The play opened on Broadway during the 1950s, a decade which also saw the largest influx of Puerto Ricans into the City of New York. This would represent the first large migration of Latinx folks into the City.
@@ -85,11 +95,11 @@ Even still, the outer boroughs remain relatively scant in terms of resources for
 
 [map with subway map overlay]
 
-## 4. Reflections
+## 5. Reflections
 
 
 
-## 5. Next Steps and Future Questions
+## 6. Next Steps and Future Questions
 
 Next Steps
 - Creating a map that captures change over time
