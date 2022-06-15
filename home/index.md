@@ -133,3 +133,4 @@ Future Questions
 - [HackMD.io shows how your markdown will display realtime](https://hackmd.io/)
 - [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
 - [Points Unknown](https://pointsunknown.nyc/tutorial_list/)
+- [Minimal Computing] (https://go-dh.github.io/mincomp/about/)
