@@ -40,7 +40,7 @@ While New York has long been known for its status as a maor driver of the countr
 
 Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City. The image below is a zoomed crop of the 1939 map featured above to show the emphasis on Broadway's "bright lights." 
 
-> :book: **Reading Suggestion:** Jay McInerey's *Bright Lights, Big City* centers on a non-native New Yorker's attraction to the "bright lights" of New York City and describes the main character's disillusionment that comes as a consequence of being drenched in the light. The pink stars on this image demonstrate Latinx community-led theatres in proximity to the theatre district.
+> :book: **Reading List:** Jay McInerey's *Bright Lights, Big City* centers on a non-native New Yorker's attraction to the "bright lights" of New York City and describes the main character's disillusionment that comes as a consequence of being drenched in the light. The pink stars on this image demonstrate Latinx community-led theatres in proximity to the theatre district.
 
  ![Pictorial landmark map above zoomed into the Theatre District to feature the "Bright Lights" and "Broadway" writ large](media/broadway%20lights.png)
  *Broadway and the Bright Lights - 1939*
@@ -93,6 +93,8 @@ Despite the presence of some Latinx theatres closer to the theatre district, mos
 
 Even still, the outer boroughs remain relatively scant in terms of resources for theatre production. Just as people often need to do to access work, recreation, or other resources important to living in New York, many Latinx folks need to commute in order to reach the theatre communities that center them. This struggle has become magnified by gentrification as Latinx New Yorkers are pushed out of once strongholds and away from those theatres that may once have been considered the heart of their artistic communities.
 
+:book: **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
+
 [map with subway map overlay]
 
 ## 5. Reflections
@@ -130,3 +132,4 @@ Future Questions
 - [Basic markdown syntax](https://www.markdownguide.org/basic-syntax/)
 - [HackMD.io shows how your markdown will display realtime](https://hackmd.io/)
 - [Quickstart for Github Pages](https://docs.github.com/en/pages/quickstart)
+- [Points Unknown](https://pointsunknown.nyc/tutorial_list/)
