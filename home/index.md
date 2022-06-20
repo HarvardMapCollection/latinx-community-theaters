@@ -36,7 +36,7 @@ The map below is dated to 1939, about a century after the map above. In this cas
 ![Pictorial landmark map "of that portion of New York City known as Manhattan also showing parts of the Bronx"](media/manhattan-landmark-map.png)
 *Pictorial landmark map - 1939*
 
-While New York has long been known for its status as a maor driver of the country's financial capital, a large fraction of the city's tax revenue is driven by tourism. According to the New York State Comptroller's Office, "spending by tourists is _the critical driver_ for industry employment, wages and tax revenues." _Source: [NYS Comptroller: Reigniting the Return](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city)_
+While New York has long been known for its status as a maor driver of the country's financial capital, a large fraction of the city's tax revenue is driven by tourism. According to the New York State Comptroller's Office, "spending by tourists is _the critical driver_ for industry employment, wages and tax revenues." _Source: [NYS Comptroller: Reigniting the Return](https://www.osc.state.ny.us/reports/osdc/tourism-industry-new-york-city)
 
 Within tourist spending, shows and other entertainment make up more than 10% of commerce. Theatre, entertainment, and concerts all fall in the same tourism category, but Broadway remains one of the most romanticized tourist attractions due to its historical association with the lights and color that many understand as synechdoche for New York City. The image below is a zoomed crop of the 1939 map featured above to show the emphasis on Broadway's "bright lights." 
 
@@ -93,7 +93,7 @@ Despite the presence of some Latinx theatres closer to the theatre district, mos
 
 Even still, the outer boroughs remain relatively scant in terms of resources for theatre production. Just as people often need to do to access work, recreation, or other resources important to living in New York, many Latinx folks need to commute in order to reach the theatre communities that center them. This struggle has become magnified by gentrification as Latinx New Yorkers are pushed out of once strongholds and away from those theatres that may once have been considered the heart of their artistic communities.
 
-:book: **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
+> :book: **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
 
 [map with subway map overlay]
 
