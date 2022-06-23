@@ -15,7 +15,7 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 
 3. [Where Are All the New York Latines](#where-are-all-the-new-york-latines)
 
-4. [Where Are Latines Being Portrayed?](#4-where-are-latines-being-portrayed)
+4. [Where Are Latines Being Portrayed?](#where-are-latines-being-portrayed)
 
 5. [Reflections](#reflections)
 
