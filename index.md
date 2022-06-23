@@ -9,7 +9,7 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 
 ### Contents
 
-1. Recurring Perspectives
+1. [Recurring Perspectives](#recurring-perspectives)
 
 2. Methods
 
@@ -21,7 +21,7 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 
 6. Future Directions
 
-## 1. Recurring Perspectives
+## Recurring Perspectives
 ... on the maps and in the theatre.
 
 ![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and eastern coastlines in the background and margins.](media/hmc-city-of-new-york-perspective.png)
