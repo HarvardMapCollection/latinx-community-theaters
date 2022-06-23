@@ -69,7 +69,7 @@ Due in part to its multiple film revivals, one of the most famous portrayals of 
 
 While *West Side Story* continues to space in the larger context of theatrical representations of Latinx people in the United States, as Latinx immigrants arrived in New York they began to create spaces where they had the ability to represent themselves and create community in doing so. This  project focuses on mapping those spaces created by Latinx folks for the sake of Latinx representation, space, and expression in New York City.
 
-![Map depicting the five boroughs of New York with gradient. Darker purple areas demonstrate higher populations of New Yorkers responding to 2000 census as "Hispanic." Also demonstrating Latinx community theatres built since 1950.](media/Whole-Map.png)
+![Map depicting the five boroughs of New York with gradient. Darker purple areas demonstrate higher populations of New Yorkers responding to 2000 census as "Hispanic." Also demonstrating Latinx community theatres built since 1950.](media/Whole-Map-pts-pcts.png)
 
 ### Latinx Community Strongholds
 
