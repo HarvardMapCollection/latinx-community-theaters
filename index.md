@@ -2,24 +2,24 @@
 The goal of this webpage is to allow others to follow the progress of this mapping project and understand the immediate and long-term goals and uses of the mapping project.
 
 
-### About this mapping project
+## About this mapping project
 At its inception, this project's main goal is to demonstrate cultural distance and difference as they pertain to staged representations of Latinx (or Latine) Americans living in the United States. In order to do so, this project maps the difference between the spaces that are occupied by Latinx-Americans and Latinx immigrants and the spaces that represent or claim to represent Latinx Americans in the United States. For this initial stage of the project, this analysis is focused on the city of New York and shows data beginning in the 1940s and 1950s. The resulting map shows where Latines are living and the emergence of Latine community-centered theatres throughout the city of New York as Latine-Americans and Latine immigrants begin to create spaces for self-representation and community celebration. This map shows information gathered from census records, community organizing histories and theatre hubs based mostly in New York.
 
 This project has been supported by the May-Crane Fellowship which allowed collaboration with, contribution to, and invaluable support from the Harvard Map Collection.
 
-### Contents
+## Contents
 
 1. [Recurring Perspectives](#recurring-perspectives)
 
-2. Methods
+2. [Methods](#methods)
 
-3. Where Are All the New York Latines?
+3. [Where Are All the New York Latines](#where-are-all-the-new-york-latines)
 
-4. Where Are Latines Being Portrayed?
+4. [Where Are Latines Being Portrayed?](#4-where-are-latines-being-portrayed)
 
-5. Reflections
+5. [Reflections](#reflections)
 
-6. Future Directions
+6. [Future Directions](#next-steps-and-future-questions)
 
 ## Recurring Perspectives
 ... on the maps and in the theatre.
@@ -45,7 +45,7 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
  ![Pictorial landmark map above zoomed into the Theatre District to feature the "Bright Lights" and "Broadway" writ large](media/broadway%20lights.png)
  *Broadway and the Bright Lights - 1939*
 
-## 2. Methods
+## Methods
 
 ### Why 2000 census data?
 
@@ -53,7 +53,7 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 
 ### On using census data
 
-## 3. Where Are All the New York Latines
+## Where Are All the New York Latines
 ... and how come they're in these spaces?
 
 - Lower East Side/Loisaida
@@ -62,7 +62,7 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 - Northern Queens
 - Brooklyn
 
-## 4. Where Are Latines Being Portrayed?
+## Where Are Latines Being Portrayed?
 ...and who is portraying them
 
 Due in part to its multiple film revivals, one of the most famous portrayals of Latinx people in the United States is *West Side Story* written and composed by Arthur Laurents, Leonard Bernstein, and Stephen Sondheim. The play is also quite famous for featuring a mostly white cast playing Puerto Rican characters written by white Americans. The play opened on Broadway during the 1950s, a decade which also saw the largest influx of Puerto Ricans into the City of New York. This would represent the first large migration of Latinx folks into the City.
@@ -97,11 +97,11 @@ Even still, the outer boroughs remain relatively scant in terms of resources for
 
 [map with subway map overlay]
 
-## 5. Reflections
+## Reflections
 
 
 
-## 6. Next Steps and Future Questions
+## Next Steps and Future Questions
 
 Next Steps
 - Creating a map that captures change over time
