@@ -42,7 +42,6 @@
 }
 
 
-
 html { height: 100%; }
 
 body {
@@ -123,28 +122,3 @@ a:hover {
   text-underline-offset: .15rem;
 }
 
-div.subtitle{
-    color: #646464;
-    font-size: 26px;
-    padding-left: .7rem;
-    font-family: 'loraitalic';
-}
-
-
-.w-app {padding: 4px;background-color: #f3f3f3;}
-header, footer, aside, main {
-  margin: 4px;
-  padding: 12px;
-  color: #666;
-  border: 1px solid rgba(0, 0, 0, 0.07);
-}
-header, footer {background-color: #f3f3f3;min-height: 60px;}
-aside {background-color: #f3f3f3;}
-main {background-color: #f3f3f3;}
-
-
-.w-tabs__bar--center {
-  font-family: 'truenobold';
-  color: #1E1E1E;
-  text-transform: uppercase;
-}
