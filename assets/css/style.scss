@@ -41,6 +41,14 @@
 
 }
 
+.site-title::before {
+    content: url("/assets/logo.svg");
+    display: inline-block;
+    position: relative;
+    width: 5px;
+    top: 10px;
+    }
+
 .wrapper{
     width: 1060px;
 }
