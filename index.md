@@ -50,9 +50,11 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 ### Why 2000 census data?
 *A note on census records:* Because measuring race and ethnicity, particularly Latinx and/or Hispanic ethnicity, has been a fraught process on the part of the U.S. census, choosing a year from which to pull census data was not simple. A hispanic/Latinx identifier appeared on the U.S. census for the first time in 1930 as "Mexican," but did not appear again until 1970. Since then, the census has posed the question of Hispanic and/or Latinx identity as a question of ethnicity distinct from race. Various version of this question has been represented each decennial year, including in the most recent 2020 census. 
 
-By 2020, a massive wave of Puerto Rican immigration into the city of New York was coming to a close. This would be the largest Latinx migration into the city.
+By the 1990s, a massive wave of Puerto Rican immigration into the city of New York was coming to a close after nearly 50 years of steady migration. This would be the largest Latinx migration into New York City. Because Puerto Rican (or Nuyorican)culture would come to define much of the Latinx theatre scene over the end of the 20th century and because Puerto Rican enclaves would be established in all five boroughs and form foundations for larger Latinx communities, the 2000 census was chosen for mapping population data.
 
-### Why 2020 subway maps?
+### Why 2022 subway maps?
+
+The use of subway maps in this projects serves to explain a more contemporary problem of distance within the context of 21st century gentrification. As a result, it was important to reflect the ways that the Latinx community might once have commuted more easily to the theatres that were located closer to the center of the subway system which revolved heavily around the island of Manhattan. While the map shows the Latinx population as it existed in 2000, the subway map overlay is representative of the current NYC subway system. The consequences are that the Latinx population is represented as having more access to long established spaces than they actually do. 
 
 ### On using census data
 
@@ -88,7 +90,9 @@ These spaces were also usually quite far from Broadway and existed as spaces for
 
 ### Theatre in the Margins
 
-Despite the presence of some Latinx theatres closer to the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more afforadable housing.
+Despite the presence of some Latinx theatres closer to what many know as the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more afforadable housing.
+
+Over the course of the city's gentrification which has accelerated rapidly in the past twenty years, Latinx folks and people of color in general have been pushed away from their neighborhoods and those train stations that made their commutes into Manhattan more accessible.
 
 ![pictures of the margins]
 
