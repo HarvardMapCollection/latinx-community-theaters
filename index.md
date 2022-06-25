@@ -48,6 +48,9 @@ Within tourist spending, shows and other entertainment make up more than 10% of 
 ## Methods
 
 ### Why 2000 census data?
+*A note on census records:* Because measuring race and ethnicity, particularly Latinx and/or Hispanic ethnicity, has been a fraught process on the part of the U.S. census, choosing a year from which to pull census data was not simple. A hispanic/Latinx identifier appeared on the U.S. census for the first time in 1930 as "Mexican," but did not appear again until 1970. Since then, the census has posed the question of Hispanic and/or Latinx identity as a question of ethnicity distinct from race. Various version of this question has been represented each decennial year, including in the most recent 2020 census. 
+
+By 2020, a massive wave of Puerto Rican immigration into the city of New York was coming to a close. This would be the largest Latinx migration into the city.
 
 ### Why 2020 subway maps?
 
@@ -75,19 +78,19 @@ While *West Side Story* continues to space in the larger context of theatrical r
 
 Most often, those spaces appeared in parts of the like the Lower East Side, where large Latinx communities had already been established...
 
-[map zoomed to Lower East Side]
+![map zoomed to Lower East Side](media/lower-east-side.png)
 
 ### Defining Latinx Identity in New York
 
 These spaces were also usually quite far from Broadway and existed as spaces for communities much larger than what most non-Latinx audiences would understand as Latinx. A major example is the Afro-Latinx communities of uptown and the Bronx that were created in part because of mutual lineage, but also due to their collective marginalization in the city...
 
-[theatres in Harlem, Washington Heights, the Bronx]
+![theatres in Harlem, Washington Heights, the Bronx](media/sb-eastharl.png)
 
 ### Theatre in the Margins
 
 Despite the presence of some Latinx theatres closer to the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more afforadable housing.
 
-[pictures of the margins]
+![pictures of the margins]
 
 ### The Commute to Community
 
@@ -95,7 +98,7 @@ Even still, the outer boroughs remain relatively scant in terms of resources for
 
 > :book: **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
 
-[map with subway map overlay]
+![map with subway map overlay](media/commute-to-comunity.png)
 
 ## Reflections
 
