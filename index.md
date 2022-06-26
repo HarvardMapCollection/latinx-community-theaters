@@ -94,7 +94,7 @@ Despite the presence of some Latinx theatres closer to what many know as the the
 
 Over the course of the city's gentrification which has accelerated rapidly in the past twenty years, Latinx folks and people of color in general have been pushed away from their neighborhoods and those train stations that made their commutes into Manhattan more accessible.
 
-![pictures of the margins]
+![pictures of the margins](media/Whole-Map-no-points.png)
 
 ### The Commute to Community
 
