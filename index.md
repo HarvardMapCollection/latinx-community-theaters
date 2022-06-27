@@ -56,16 +56,7 @@ By the 1990s, a massive wave of Puerto Rican immigration into the city of New Yo
 
 The use of subway maps in this projects serves to explain a more contemporary problem of distance within the context of 21st century gentrification. As a result, it was important to reflect the ways that the Latinx community might once have commuted more easily to the theatres that were located closer to the center of the subway system which revolved heavily around the island of Manhattan. While the map shows the Latinx population as it existed in 2000, the subway map overlay is representative of the current NYC subway system. The consequences are that the Latinx population is represented as having more access to long established spaces than they actually do. 
 
-### On using census data
 
-## Where Are All the New York Latines
-... and how come they're in these spaces?
-
-- Lower East Side/Loisaida
-- Upper West Side --> Washington Heights
-- South Bronx
-- Northern Queens
-- Brooklyn
 
 ## Where Are Latines Being Portrayed?
 ...and who is portraying them
@@ -88,7 +79,15 @@ These spaces were also usually quite far from Broadway and existed as spaces for
 
 ![theatres in Harlem, Washington Heights, the Bronx](media/sb-eastharl.png)
 
-### Theatre in the Margins
+
+### Where Are All the New York Latines
+... and how come they're in these spaces?
+
+- Lower East Side/Loisaida
+- Upper West Side --> Washington Heights
+- South Bronx
+- Northern Queens
+- Brooklyn
 
 Despite the presence of some Latinx theatres closer to what many know as the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more afforadable housing.
 
@@ -100,7 +99,7 @@ Over the course of the city's gentrification which has accelerated rapidly in th
 
 Even still, the outer boroughs remain relatively scant in terms of resources for theatre production. Just as people often need to do to access work, recreation, or other resources important to living in New York, many Latinx folks need to commute in order to reach the theatre communities that center them. This struggle has become magnified by gentrification as Latinx New Yorkers are pushed out of once strongholds and away from those theatres that may once have been considered the heart of their artistic communities.
 
-> :book: **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
+> **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
 
 ![map with subway map overlay](media/commute-to-comunity.png)
 
@@ -111,6 +110,7 @@ Even still, the outer boroughs remain relatively scant in terms of resources for
 ## Next Steps and Future Questions
 
 Next Steps
+
 - Creating a map that captures change over time
 - Mapping Chicago and LA
 - Case studies in the NY-LA connection: Luis Valdez from the farm to Broadway
