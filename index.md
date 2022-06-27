@@ -67,24 +67,26 @@ While *West Side Story* continues to space in the larger context of theatrical r
 
 ![Map depicting the five boroughs of New York with gradient. Darker purple areas demonstrate higher populations of New Yorkers responding to 2000 census as "Hispanic." Also demonstrating Latinx community theatres built since 1950.](media/Whole-Map-pts-pcts.png)
 
-### Latinx Community Strongholds
+## Latinx Community Strongholds
 
-Most often, those spaces appeared in parts of the like the Lower East Side, where large Latinx communities had already been established...
+Most often, those spaces appeared in parts of the like the Lower East Side, where large Latinx communities had already been established. 6 of 16 theatres mapped are in one of the most famous Puerto Rican neighborhoods in the United States. The Lower East Side or "Loisaida" became home to the Nuyorican Poets Café, one of the first homes of Latinx arts in New York.
 
 ![map zoomed to Lower East Side](media/lower-east-side.png)
 
-### Defining Latinx Identity in New York
+## Defining Latinx Identity in New York
 
-These spaces were also usually quite far from Broadway and existed as spaces for communities much larger than what most non-Latinx audiences would understand as Latinx. A major example is the Afro-Latinx communities of uptown and the Bronx that were created in part because of mutual lineage, but also due to their collective marginalization in the city...
+These spaces were also usually quite far from Broadway and existed as spaces for communities much larger than what most non-Latinx audiences would understand as Latinx. A major example is the Afro-Latinx communities of uptown and the Bronx that were created in part because of mutual lineage, but also due to their collective marginalization in the city. Where Harlem was historically Black, East Harlem, Washington Heights, and the South Bronx eventually became major Latinx neighborhoods. The cultural proximity (re)mixing that resulted in the geographic marginalization of both Black and Latinx New Yorkers resulted in Afro-Latinx spaces that are difficult to find in much of the country.
+
+>Next Step: Mapping census racial categories on top of ethnic data could demonstrate this more neatly.
 
 ![theatres in Harlem, Washington Heights, the Bronx](media/sb-eastharl.png)
 
 
-### Where Are All the New York Latines
+## Where Are All the New York Latines
 ... and how come they're in these spaces?
 
 - Lower East Side/Loisaida
-- Upper West Side --> Washington Heights
+- Washington Heights
 - South Bronx
 - Northern Queens
 - Brooklyn
@@ -93,18 +95,17 @@ Despite the presence of some Latinx theatres closer to what many know as the the
 
 Over the course of the city's gentrification which has accelerated rapidly in the past twenty years, Latinx folks and people of color in general have been pushed away from their neighborhoods and those train stations that made their commutes into Manhattan more accessible.
 
+The Lower East side is an outlier in that it lies closer to central parts of Manhattan. While its location near industry and bridge traffic long kept the Lower East Side in the hands of immigrant communities, its desirability has seen an increase and gentrification has become a significant factor in the makeup of the neighborhood. Washington Heights, the South Bronx, Northern Queens have all benefitted from being far enough away from the center of Manhattan and the subway lines that carried residents there that they their Latinx enclaves have remained somewhat protected. 
+
 ![pictures of the margins](media/Whole-Map-no-points.png)
 
-### The Commute to Community
+## The Commute to Community
 
 Even still, the outer boroughs remain relatively scant in terms of resources for theatre production. Just as people often need to do to access work, recreation, or other resources important to living in New York, many Latinx folks need to commute in order to reach the theatre communities that center them. This struggle has become magnified by gentrification as Latinx New Yorkers are pushed out of once strongholds and away from those theatres that may once have been considered the heart of their artistic communities.
 
 > **Reading List:** Beloved musical-turned-Disney-feature *In the Heights* by Quiara Alegría Hudes and Lin-Manuel Miranda depicts the effects of Puerto Ricans and Dominicans in Washington Heights lose their communities and leave landmarks like murals behind. Gabriela Cázares addresses this in her article, "Resisting Gentrification in Quiara Alegría Hudes and Lin-Manuel Miranda's *In the Heights* and Ernesto Quiñonez's *Bodega Dreams*"
 
 ![map with subway map overlay](media/commute-to-comunity.png)
-
-## Reflections
-
 
 
 ## Next Steps and Future Questions
