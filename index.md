@@ -27,7 +27,7 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 ![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and eastern coastlines in the background and margins.](media/hmc-city-of-new-york-perspective.png)
 *Pictorial perspective map of Manhattan from the South - early 19th century*
 
-Upon arriving at and exploring the Harvard Map Collection, it quickly became evident that certain perspectives have predominated mapmaking in New York. The focus of most maps in New York is commerce, and in more recent years this commerce is mainly prioritized in the form of tourism. 
+Upon arriving at and exploring the Harvard Map Collection, it quickly became evident that certain perspectives have predominated mapmaking in New York. The focus of most maps in New York is commerce, and in more recent years, this commerce is mainly prioritized in the form of tourism. 
 
 The map above is a perspective map of Manhattan from the early 19th century which centers the southern tip of Manhattan and shipping commerce as the most notable features of the city. The northern part of Manhattan, as well as the areas that would come to be known as Brooklyn, Queens, the Bronx, and Staten Island are featured as marginal or not at all. While this map was created long before New York City became defined by the five boroughs, the parts left off the map or left literally minimized by the perspective of the map are the places that would come to be populated by people of color, including Latine immigrants.
 
@@ -63,7 +63,7 @@ The use of subway maps in this projects serves to explain a more contemporary pr
 
 Due in part to its multiple film revivals, one of the most famous portrayals of Latinx people in the United States is *West Side Story* written and composed by Arthur Laurents, Leonard Bernstein, and Stephen Sondheim. The play is also quite famous for featuring a mostly white cast playing Puerto Rican characters written by white Americans. The play opened on Broadway during the 1950s, a decade which also saw the largest influx of Puerto Ricans into the City of New York. This would represent the first large migration of Latinx folks into the City.
 
-While *West Side Story* continues to space in the larger context of theatrical representations of Latinx people in the United States, as Latinx immigrants arrived in New York they began to create spaces where they had the ability to represent themselves and create community in doing so. This  project focuses on mapping those spaces created by Latinx folks for the sake of Latinx representation, space, and expression in New York City.
+While *West Side Story* continues to hold space in the larger context of theatrical representations of Latinx people in the United States, as Latinx immigrants arrived in New York they began to create spaces where they had the ability to represent themselves and create community in doing so. This  project focuses on mapping those spaces created by Latinx folks for the sake of Latinx representation, space, and expression in New York City.
 
 ![Map depicting the five boroughs of New York with gradient. Darker purple areas demonstrate higher populations of New Yorkers responding to 2000 census as "Hispanic." Also demonstrating Latinx community theatres built since 1950.](media/Whole-Map-pts-pcts.png)
 
