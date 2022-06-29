@@ -13,13 +13,13 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 
 2. [Methods](#methods)
 
-3. [Where Are All the New York Latines](#where-are-all-the-new-york-latines)
+3. [Where Are Latines Being Portrayed?](#where-are-latines-being-portrayed)
 
-4. [Where Are Latines Being Portrayed?](#where-are-latines-being-portrayed)
+4. [Where Are All the New York Latines](#where-are-all-the-new-york-latines)
 
-5. [Reflections](#reflections)
+5. [The Commute to Community](#the-commute-to-community)
 
-6. [Future Directions](#next-steps-and-future-questions)
+6. [Next Steps and Future Questions](#next-steps-and-future-questions)
 
 ## Recurring Perspectives
 ... on the maps and in the theatre.
@@ -67,13 +67,13 @@ While *West Side Story* continues to hold space in the larger context of theatri
 
 ![Map depicting the five boroughs of New York with gradient. Darker purple areas demonstrate higher populations of New Yorkers responding to 2000 census as "Hispanic." Also demonstrating Latinx community theatres built since 1950.](media/Whole-Map-pts-pcts.png)
 
-## Latinx Community Strongholds
+### Latinx Community Strongholds
 
 Most often, those spaces appeared in parts of the like the Lower East Side, where large Latinx communities had already been established. 6 of 16 theatres mapped are in one of the most famous Puerto Rican neighborhoods in the United States. The Lower East Side or "Loisaida" became home to the Nuyorican Poets Café, one of the first homes of Latinx arts in New York.
 
 ![map zoomed to Lower East Side](media/lower-east-side.png)
 
-## Defining Latinx Identity in New York
+### Defining Latinx Identity in New York
 
 These spaces were also usually quite far from Broadway and existed as spaces for communities much larger than what most non-Latinx audiences would understand as Latinx. A major example is the Afro-Latinx communities of uptown and the Bronx that were created in part because of mutual lineage, but also due to their collective marginalization in the city. Where Harlem was historically Black, East Harlem, Washington Heights, and the South Bronx eventually became major Latinx neighborhoods. The cultural proximity (re)mixing that resulted in the geographic marginalization of both Black and Latinx New Yorkers resulted in Afro-Latinx spaces that are difficult to find in much of the country.
 
