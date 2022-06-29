@@ -27,11 +27,11 @@ This project has been supported by the May-Crane Fellowship which allowed collab
 ![Pictorial perspective map of Manhattan with the the southern tip and commerce ships in the foreground and upper manhattan and the western and eastern coastlines in the background and margins.](media/hmc-city-of-new-york-perspective.png)
 *Pictorial perspective map of Manhattan from the South - early 19th century*
 
-Upon arriving at and exploring the Harvard Map Collection, it quickly became evident that certain perpective have predominated mapmaking in New York. The focus of most maps in New York is commerce, and in more recent years this commerce is mainly prioritized in the form of tourism. 
+Upon arriving at and exploring the Harvard Map Collection, it quickly became evident that certain perspective have predominated mapmaking in New York. The focus of most maps in New York is commerce, and in more recent years this commerce is mainly prioritized in the form of tourism. 
 
 The map above is a perspective map of Manhattan from the early 19th century which centers the southern tip of Manhattan and shipping commerce as the most notable features of the city. The northern part of Manhattan, as well as the areas that would come to be known as Brooklyn, Queens, the Bronx, and Staten Island are featured as marginal or not at all. While this map was created long before New York City became defined by the five boroughs, the parts left off the map or left literally minimized by the perspective of the map are the places that would come to be populated by people of color, including Latine immigrants.
 
-The map below is dated to 1939, about a century after the map above. In this case, the map is not physically skewed to represent fincance and commerece. Rather, it points out locations that serve either as important financial institutions or as major attractions for those visiting from outside of the city. 
+The map below is dated to 1939, about a century after the map above. In this case, the map is not physically skewed to represent finance and commerce. Rather, it points out locations that serve either as important financial institutions or as major attractions for those visiting from outside of the city. 
 
 ![Pictorial landmark map "of that portion of New York City known as Manhattan also showing parts of the Bronx"](media/manhattan-landmark-map.png)
 *Pictorial landmark map - 1939*
