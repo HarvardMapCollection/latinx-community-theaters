@@ -85,17 +85,11 @@ These spaces were also usually quite far from Broadway and existed as spaces for
 ## Where Are All the New York Latines
 ... and how come they're in these spaces?
 
-- Lower East Side/Loisaida
-- Washington Heights
-- South Bronx
-- Northern Queens
-- Brooklyn
+Despite the presence of some Latinx theatres closer to what many know as the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more affordable housing.
 
-Despite the presence of some Latinx theatres closer to what many know as the theatre district, most of the Latinx theatres in New York City are not only on the margins of the theatre district, but on the margins of the islands of Manhattan or in "outer boroughs" where Latinx communities have been able to find more afforadable housing.
+Over the course of the city's gentrification, which has accelerated rapidly in the past twenty years, Latinx folks and people of color in general have been pushed away from their neighborhoods and those train stations that made their commutes into Manhattan more accessible.
 
-Over the course of the city's gentrification which has accelerated rapidly in the past twenty years, Latinx folks and people of color in general have been pushed away from their neighborhoods and those train stations that made their commutes into Manhattan more accessible.
-
-The Lower East side is an outlier in that it lies closer to central parts of Manhattan. While its location near industry and bridge traffic long kept the Lower East Side in the hands of immigrant communities, its desirability has seen an increase and gentrification has become a significant factor in the makeup of the neighborhood. Washington Heights, the South Bronx, Northern Queens have all benefitted from being far enough away from the center of Manhattan and the subway lines that carried residents there that they their Latinx enclaves have remained somewhat protected. 
+The Lower East side is an outlier in that it lies closer to central parts of Manhattan. While its location near industry and bridge traffic long kept the Lower East Side in the hands of immigrant communities, its desirability has seen an increase, and gentrification has become a significant factor in the makeup of the neighborhood. Washington Heights, the South Bronx, Northern Queens have all benefitted from being far enough away from the center of Manhattan and the subway lines that carried residents there that they their Latinx enclaves have remained somewhat protected. 
 
 ![pictures of the margins](media/Whole-Map-no-points.png)
 
@@ -113,7 +107,9 @@ Even still, the outer boroughs remain relatively scant in terms of resources for
 Next Steps
 
 - Creating a map that captures change over time
+
 - Mapping Chicago and LA
+
 - Case studies in the NY-LA connection: Luis Valdez from the farm to Broadway
 
 Future Questions
