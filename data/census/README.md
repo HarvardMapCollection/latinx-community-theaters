@@ -1,1 +1,0 @@
-The GIS census data in `nyc-pct-hispanic` was obtained from NHGIS.org. The ethinicity full count data was normalized by total population per census block group. Codebooks for each census statistical file are included.
